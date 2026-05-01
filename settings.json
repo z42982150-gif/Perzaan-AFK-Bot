@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "BengaliPurSMP.aternos.me:41918",
+    "port": 41918,
     "version": "1.21.1"
   },
   "position": {
